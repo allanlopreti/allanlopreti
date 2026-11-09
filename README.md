@@ -1,93 +1,37 @@
-# - Hello World! I am **Allan Lopreti**
+# Hi, I'm Allan Lopreti 👋
 
-Software engineer focused on backend and mobile development, 
-with experience in creating scalable APIs, real-time features, 
-and complete applications and solutions using Java, Kafka, Spring Boot, Flutter, and more.
+**Senior Software Engineer · Founder of [GaragemAqui](https://garagemaqui.com.br)** · São Paulo, Brazil
 
----
+I build critical back-end systems for the financial market, where every transaction has to be right: foreign exchange (FX), treasury and core banking. Outside of work, I single-handedly built and shipped **GaragemAqui**, a complete product from idea to launch.
 
-### Contact and Networks
+<p>
+  <a href="https://lopreti.com.br"><img src="https://img.shields.io/badge/Portfolio-lopreti.com.br-2563eb?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/allan-lopreti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafael.lopreti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/users/339179544726732802"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-<div>
-  <a href="mailto:rafael.lopreti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/allan-lopreti" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    <a href="https://discord.com/users/339179544726732802" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
+## What I'm doing now
 
----
+- 💱 **Senior Software Engineer at Qaracter**, working at Santander on foreign exchange (FX) applications
+- 🚗 **Building [GaragemAqui](https://garagemaqui.com.br)**, a marketplace that connects drivers with people who have an idle garage spot, rented by the hour
+- ✍️ Writing on [LinkedIn](https://www.linkedin.com/in/allan-lopreti/recent-activity/all/) about what changes when your back-end starts processing money
 
-### GitHub Stats
+## Featured projects
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=allanlopreti&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+| Project | What it is |
+| --- | --- |
+| [**GaragemAqui**](https://garagemaqui.com.br) | Hourly garage parking marketplace: Android and iOS app in Flutter, Java and Spring Boot back-end with PostgreSQL/PostGIS, map search, Pix and card payments, automatic payouts and photo moderation. Private code, live product. |
+| [**ledger-flow**](https://github.com/allanlopreti/ledger-flow) | Transactional ledger with postings, deposits, FX transactions with exchange rates and key-based request idempotency. Java, Spring Boot, PostgreSQL, Liquibase and Testcontainers. |
+| [**lopreti.com.br**](https://github.com/allanlopreti/lopreti_site) | My portfolio, in Portuguese and English. Astro, deployed to my own VPS by GitHub Actions. |
 
----
+## Tech I work with
 
-### Tools and Languages
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allanlopreti&layout=compact&theme=tokyonight)](https://github.com/allanlopreti)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes,aws,jenkins,githubactions,flutter,dart,ts,react&perline=13" alt="Java, Spring, Kafka, PostgreSQL, Docker, Kubernetes, AWS, Jenkins, GitHub Actions, Flutter, Dart, TypeScript, React" />
+</p>
 
-#### Languages
-<div>
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart"/>
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-</div>
-
-#### Frameworks and Platforms
-<div>
-  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Boot"/>
-  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-</div>
-
-#### Tools and Cloud
-<div>
-  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
-  <img alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/>
-  <img alt="Jenkins" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins"/>
-  <img alt="Jira" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira"/>
-  <img alt="Kibana" height="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana"/>
-</div>
-
-#### Messaging
-<div> 
-  <img alt="Apache Kafka" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka"/> 
-  <img alt="RabbitMQ" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"/> 
-</div>
-
-#### Databases
-<div>
-  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-  <img alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database"/>
-  <img alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"/>
-</div>
-
----
-
-### Current project
-I am currently developing a rental platform (iOS/Android), 
-aimed at connecting landlords and tenants, focused on usability, security, and real-time interactions.
-
-
-**About the project:**
-- Authentication and push notifications
-- Real-time chat between users
-- Photos uploading and management
-- Integration with external payment processor to enable secure and scalable transactions
-- Google Maps integration for location-based services
-- Backend API (REST) for business logic and data management
-- Modern interface built in Flutter
-- Scalable and secure architecture
-
-*(Under development — coming soon to all of Brazil)*
+Microservices · REST APIs · event-driven architecture · BFF · observability (Grafana, Prometheus) · load testing (K6)
 
 ---
 
